@@ -1,0 +1,7 @@
+pip install django-bootstrap
+
+pip install django-mathfilters
+
+pip install django-widget-tweaks
+
+pip install pyserial
